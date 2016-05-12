@@ -8,4 +8,4 @@ I still have to upgrade a few things like:
   - Enhace fights (maybe add some sort of timing)
   - Maybe add a main menu.
 
-Sorry my English is not perfect, it is not my first language.
+Sorry my English is not perfect.
