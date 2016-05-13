@@ -1,5 +1,5 @@
 # mzta
-This is a little text adventure game I have made in Ruby to practice the language. I know the title is a bit lame. 
+This is a little text adventure game I have made in Ruby to practice the language. 
 
 I still have to upgrade a few things like:
 
