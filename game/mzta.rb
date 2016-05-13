@@ -1,5 +1,5 @@
 ######################
-#  MEDIEVAL MADNESS  #    # In search for a new name.
+#        MZTA        #    # In search for a new name.
 # Written by /u/IIFO #
 ######################
 
